@@ -45,7 +45,7 @@
 
 
 /**
- * gipOscillator is a GlisteEngine component that generates signals to calibrate connected devices.
+ * gipOscillator is a GlistEngine component that generates signals to calibrate connected devices.
  */
 class gipOscillator : public gBaseComponent{
 public:
